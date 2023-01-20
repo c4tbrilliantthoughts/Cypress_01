@@ -1,0 +1,10 @@
+{
+  "ignoreTestFiles": "*.ts",
+
+  "baseUrl": "https://demo.guru99.com/insurance/v1/index.php",
+  "ignoreTestFiles": ["*.js", "*.md"],
+  "testFiles": "**/*.feature",
+  "watchForChanges": false,
+  "multiple": true,
+  "dafaultCommandTimeout": 8000
+}
